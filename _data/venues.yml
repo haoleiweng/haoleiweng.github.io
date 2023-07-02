@@ -1,6 +1,56 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
-
 "PhysRev":
   url: https://journals.aps.org/
+
+
+"ISIT":
+  url: https://www.itsoc.org/conferences/isit
+  color: "#00369f"
+
+
+"IEEE Trans. Inf.":
+  url: https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=18
+  color: "#00369f"
+
+"Ann. Stat.":
+  url: https://imstat.org/journals-and-publications/annals-of-statistics/
+  color: "#808000"
+
+"Stat. Sin.":
+  url: https://www3.stat.sinica.edu.tw/statistica/
+  color: "Maroon"
+
+
+"Inf. Inference":
+  url: https://academic.oup.com/imaiai
+  color: "Purple"
+
+
+"JSPI":
+  url: https://www.sciencedirect.com/journal/journal-of-statistical-planning-and-inference
+  color: "#0288D1"
+
+
+"EJS":
+  url: https://imstat.org/journals-and-publications/electronic-journal-of-statistics/
+  color: "#808000"
+
+
+"Stat. Comput.":
+  url: https://www.springer.com/journal/11222
+  color: "#FFB300"
+
+
+"Stat":
+  url: https://onlinelibrary.wiley.com/journal/20491573
+  color: "#F57C00"
+
+"JBES":
+  url: https://www.tandfonline.com/journals/ubes20
+  color: "#0277BD"
+
+"JCGS":
+  url: https://www.tandfonline.com/toc/ucgs20/current
+  color: "#0277BD"
+
+"Preprint":
+  color: "#90A4AE"

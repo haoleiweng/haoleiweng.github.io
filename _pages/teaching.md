@@ -1,12 +1,23 @@
 ---
 layout: page
-permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+permalink: /students/
+title: Students
+description: 
 nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
 
-Organize your courses by years, topics, or universities, however you like!
+**Current PhD students**
+
+- Andriana Manousidaki, MSU, Joint with Yuying Xie
+
+- Yilin Guo, Columbia, Joint with Arian Maleki
+
+- Sang Kyu Lee, MSU, Joint with Grace Hong
+
+- Dali Liu, MSU, Joint with Yimin Xiao
+
+- Jianrui Zhang, MSU, Joint with Chenxi Li
+
+- Meiqi Liu, MSU
