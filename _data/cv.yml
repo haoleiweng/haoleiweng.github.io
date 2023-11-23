@@ -1,6 +1,13 @@
 - title: At Michigan State University
   type: time_table
   contents:
+    - title: Bayesian Statistical Methods (STT 465)
+      year: Fall 2023
+      description:
+        - Advanced undergraduate level
+        - <a href="https://drive.google.com/file/d/1gRdGLF_07rOY8c0RhXadUDAa7eC2QFiY/view?usp=sharing">Syllabus</a>
+        - <a href="https://drive.google.com/file/d/1yAeo4ZnSlodyTAlbzywDcQzQzBq14Byi/view?usp=sharing">Lecture slides</a>
+
     - title: Statistical Inference II (STT 951)
       year: Spring 2023
       description:
@@ -22,7 +29,7 @@
         - <a href="https://drive.google.com/file/d/1BpHm06mudZaQKOC9MfJVQmjZ7o1trkXu/view">Syllabus</a>
 
     - title: Linear Model Methodology (STT 867)
-      year: Fall 2018-2021
+      year: Fall 2018-2021, 2023
       description:
         - Ph.D. level
         - <a href="https://drive.google.com/file/d/15p96Qy2EPh2uTw8Gq7XfkmMzMEJf_rmO/view">Syllabus</a>

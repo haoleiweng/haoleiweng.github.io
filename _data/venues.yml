@@ -54,3 +54,8 @@
 
 "Preprint":
   color: "#90A4AE"
+
+
+"JRSSA":
+  url: https://academic.oup.com/jrsssa?login=false
+  color: "#bd9924"
