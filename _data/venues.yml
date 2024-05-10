@@ -59,3 +59,7 @@
 "JRSSA":
   url: https://academic.oup.com/jrsssa?login=false
   color: "#bd9924"
+
+"ICML":
+  url: https://icml.cc/
+  color: "#D98880"
