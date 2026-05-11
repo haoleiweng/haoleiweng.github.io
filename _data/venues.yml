@@ -7,13 +7,21 @@
   color: "#00369f"
 
 
-"IEEE Trans. Inf.":
+"IEEE TIT":
   url: https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=18
   color: "#00369f"
 
-"Ann. Stat.":
+"AOS":
   url: https://imstat.org/journals-and-publications/annals-of-statistics/
   color: "#808000"
+
+"JASA":
+  url: https://www.tandfonline.com/journals/uasa20
+  color: "#000080"
+
+"HDSR":
+  url: https://hdsr.mitpress.mit.edu/
+  color: "#800000"
 
 "Stat. Sin.":
   url: https://www3.stat.sinica.edu.tw/statistica/
