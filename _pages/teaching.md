@@ -12,11 +12,11 @@ nav_order: 5
 
 **PhD students**
 
-- Andriana Manousidaki, MSU, Joint with Yuying Xie. Current position: teaching specialist at MSU.
+- Andriana Manousidaki, MSU, Joint with Yuying Xie. Current position: Teaching Specialist at MSU.
 
-- Yilin Guo, Columbia, Joint with Arian Maleki. Current position: quantitative researcher at Two Sigma.
+- Yilin Guo, Columbia, Joint with Arian Maleki. Current position: Quantitative Researcher at Two Sigma.
 
-- Sang Kyu Lee, MSU, Joint with Grace Hong. Current position: postdoc at NIH. First position: postdoc at NIH. Current position:Tenure-Track Assistant Professor at Department of Applied Statistics, Konkuk University.
+- Sang Kyu Lee, MSU, Joint with Grace Hong. First position: Postdoc at NIH. Current position: Tenure-Track Assistant Professor at Department of Applied Statistics, Konkuk University.
 
 - Dali Liu, MSU, Joint with Yimin Xiao. Current position: Data Scientist at Huawei.
 
